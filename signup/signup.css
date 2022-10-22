@@ -89,3 +89,23 @@ button:hover{
     height:25vh;
     width:100%;
 }
+
+.form-wrap{
+    display: block;
+    z-index:3;
+}
+
+
+
+.form-wrap a{
+    margin-top:2rem;
+    color: white;
+    
+
+}
+
+.redirect-wrap{
+    padding: .2rem;
+    text-align: center;
+    
+}
